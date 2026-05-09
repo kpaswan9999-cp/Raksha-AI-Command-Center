@@ -1,4 +1,5 @@
 # 🛡️ Raksha AI — National Emergency Command Center
+# Live link: https://raksha-ai-command-center.vercel.app
 ## Protecting Every Citizen, Speaking Every Language.
 ## Because in an emergency, every second—and every word—matters.
 <img width="1330" height="742" alt="Screenshot 2026-05-08 042616" src="https://github.com/user-attachments/assets/cbb71832-b868-43b1-a244-c7c61679f36f" />
